@@ -3,7 +3,8 @@
 
 _(Probably doesn't support Crunchyroll Beta)_
 
-Crunchyroll doesn't immediately show region blocked content after switching to another country through a VPN. In order to show the content available in the connected VPN country, this add-on adds a button that remove a cookie and then refreshes the page.
+Crunchyroll doesn't immediately show region blocked content after switching to another country through a VPN. In order to 
+show the content available in the connected VPN country, this add-on adds a button that removes a cookie and then refreshes the page.
 
 The button can be found at the top right of the page, next to the "Queue" item.
 
